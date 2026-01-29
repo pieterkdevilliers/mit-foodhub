@@ -1,0 +1,16 @@
+[project]
+name = "mit-foodhub"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "jupyterlab>=4.5.3",
+    "matplotlib>=3.9.4",
+    "nbconvert>=7.16.6",
+    "nbstripout>=0.8.2",
+    "numpy>=2.0.2",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.6.1",
+    "seaborn>=0.13.2",
+]
